@@ -1,1 +1,2 @@
-# STAT-3301-Time-Series-Project
+# STAT-3301-Time-Series-Project  
+The carbon dioxide concentration in the atmosphere is closely related with the earth’s surface temperature regulation and ecological cycle. Furthermore, it’s the major contributor to greenhouse effect. Therefore, monitoring the carbon dioxide has significant meanings on the scientific study of present-day biosphere. In this report, the monthly measurements of carbon dioxide above Mauna Loa, Hawaii from Jan 1959 to Dec 1990 is studied by adopting a time series model, which could bring some insights to the analysis of global temperature and global warming issue
